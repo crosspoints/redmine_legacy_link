@@ -1,0 +1,5 @@
+# English strings go here for Rails i18n
+en:
+  enable_legacy_link: "Enable Legacy Style Link"
+  show_link_name_only: "Show Link Name Only"
+  enable_legacy_link_description: "If you enabled this, confirm https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15577"

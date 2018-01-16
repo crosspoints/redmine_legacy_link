@@ -1,0 +1,5 @@
+# English strings go here for Rails i18n
+ja:
+  enable_legacy_link: "旧スタイルのリンク表示"
+  show_link_name_only: "リンク名称のみ表示"
+  enable_legacy_link_description: "有効にする場合は https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15577 を理解した上で有効にしてください"

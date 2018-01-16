@@ -1,0 +1,13 @@
+<div class='settings_for_legacy_link'>
+<p>
+  <%=content_tag(:label, l(:enable_legacy_link))%>
+  <%=check_box_tag 'settings[enable]', true, @settings['enable'] == "true" %><br/>
+  <span class=""><%= l(:enable_legacy_link_description) %></span>
+</p>
+
+<p>
+  <%=content_tag(:label, l(:show_link_name_only))%>
+  <%=check_box_tag 'settings[only_link_name]', true, @settings['only_link_name'] == "true" %>
+</p>
+
+</div>

@@ -1,0 +1,12 @@
+# Redmine Legacy Link Plugin
+
+This plugin is for Redmine 3.4.
+This plugin can disable the patch http://www.redmine.org/projects/redmine/repository/revisions/16283 
+Please check the following URL:
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15577
+
+And including wiki-links.patch in http://www.redmine.org/issues/26530
+
+### Plugin Installation
+
+Put plugin folder and restart Redmine only.

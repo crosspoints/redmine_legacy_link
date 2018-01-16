@@ -1,7 +1,7 @@
 # Redmine Legacy Link Plugin
 
 This plugin is for Redmine 3.4.
-This plugin can disable the patch http://www.redmine.org/projects/redmine/repository/revisions/16283 
+This plugin can disable the change http://www.redmine.org/projects/redmine/repository/revisions/16283 
 
 Please check the following URL:
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15577
